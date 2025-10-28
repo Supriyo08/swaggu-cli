@@ -1,5 +1,5 @@
 # My Swaggu CLI
-<img width="500" height="500" alt="unnamed-removebg-preview" src="https://github.com/user-attachments/assets/c99d50ff-dfe9-46a7-bc67-ebcb815fe2a5" />
+<img width="900" height="900" alt="unnamed-removebg-preview" src="https://github.com/user-attachments/assets/c99d50ff-dfe9-46a7-bc67-ebcb815fe2a5" />
 
 
 A simple but powerful command-line tool to generate code snippets using the Google Gemini API.
